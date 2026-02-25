@@ -1,0 +1,21 @@
+Postgress banco de dados
+PG Admin
+Entidade Relacionamento
+Modelo Lógico
+
+
+Modelo entidade relacionamento 
+Entidade -> relacionamento -> atributo
+
+Entidades concretas ou abstratas
+
+Domínio:
+Conjunto de valores admissiveis
+
+Regras de relacionamento
+Simbologia da modelagem cardinalidade
+
+1:1
+N:M
+--------------------------------------------
+
